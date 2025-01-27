@@ -13,8 +13,8 @@
     <div class="wrapper">
         <section class="form login">
             <header>Realtime Chat App with branch collaboration</header>
-            <p>helow team</p>
-            <p>last dance</p>
+
+            
             <form action="#">
                 <div class="error-txt"></div>
                 <div class="name-details">
