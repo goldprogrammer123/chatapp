@@ -13,7 +13,7 @@
     <div class="wrapper">
         <section class="form login">
             <header>Realtime Chat App with branch collaboration</header>
-
+        <p>i like coding</p>
             
             <form action="#">
                 <div class="error-txt"></div>
