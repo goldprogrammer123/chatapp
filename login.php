@@ -12,7 +12,7 @@
 <body>
     <div class="wrapper">
         <section class="form login">
-            <header>Realtime Chat App</header>
+            <header>Realtime Chat App with branch collaboration</header>
             <form action="#">
                 <div class="error-txt"></div>
                 <div class="name-details">
